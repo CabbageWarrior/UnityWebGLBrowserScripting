@@ -1,0 +1,2 @@
+# UnityWebGLBrowserScripting
+Browser scripting test.
